@@ -1,2 +1,3 @@
-# cocoapods-repo
+= cocoapods-repo
+
 cocoapods repository
