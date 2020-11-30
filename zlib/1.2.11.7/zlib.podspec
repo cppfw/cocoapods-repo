@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.2.11.7"
   s.summary      = "Compression/decompression library."
   s.homepage     = "https://github.com/cppfw/#{s.name}"
-  s.license      = { :file => 'LICENSE' }
+  s.license      = { :type => 'zlib', :file => 'LICENSE' }
   s.author       = { "Ivan Gagis" => "igagis@gmail.com" }
   s.platform     = :ios
   s.ios.deployment_target = '8.0'
